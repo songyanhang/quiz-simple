@@ -18,7 +18,7 @@
 | nrm            | 是 ……                |
 | yarn           | 是 ……                |
 | React          | 是 ……                |
-| Vue            | 是 ……                |
+| Vue            | 是   js的一个渐进式框架            |
 | Flux           | 是 ……                |
 | Mobx           | 是 ……                |
 | MVVM           | 是 ……                |
@@ -49,4 +49,4 @@
 > - Youtube 的几个频道: Fireship、Traversy Media、DesignCourse …
 > - 掘金、知乎
 
-答：
+答：知乎 CSDN 代码之家
